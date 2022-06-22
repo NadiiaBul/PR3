@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\bin\Debug\CreationalPattern.exe.config
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\bin\Debug\CreationalPattern.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\bin\Debug\CreationalPattern.pdb
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\obj\Debug\CreationalPattern.csproj.AssemblyReference.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\obj\Debug\CreationalPattern.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\obj\Debug\CreationalPattern.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\CreationalPattern\CreationalPattern\obj\Debug\CreationalPattern.pdb
